@@ -11,7 +11,7 @@ def parse_args():
     parser.add_argument("--video", required=False, default=None)
     parser.add_argument("--im", required=False, default=None)
     parser.add_argument("--bgr", required=False, default=None)
-    parser.add_argument("--model", required=False, default="../FMODetect.h5")
+    parser.add_argument("--model", required=False, default="FMODetect.h5")
     parser.add_argument("--save", required=False, default="example")
     parser.add_argument("--median", required=False, default=3)
     return parser.parse_args()
