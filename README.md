@@ -1,6 +1,6 @@
 # FMODetect Evaluation and Training Code 
 
-### FMODetect: Robust Detection and Trajectory Estimation of Fast Moving Objects (arxiv 2020)
+### FMODetect: Robust Detection and Trajectory Estimation of Fast Moving Objects
 #### Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Jiri Matas, Marc Pollefeys
 
 ### Inference
