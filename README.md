@@ -14,6 +14,7 @@ To detect fast moving objects in a single frame with the given background:
 python run.py --im example/ex1_im.png --bgr example/ex1_bgr.png
 ```
 
+We only provide the detection part. The deblurring and trajectory reconstruction part will be added later.
 
 ### Pre-trained models
 
