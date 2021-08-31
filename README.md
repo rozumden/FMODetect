@@ -1,6 +1,6 @@
 # FMODetect Evaluation and Training Code 
 
-### FMODetect: Robust Detection and Trajectory Estimation of Fast Moving Objects
+### FMODetect: Robust Detection of Fast Moving Objects
 #### Denys Rozumnyi, Martin R. Oswald, Vittorio Ferrari, Jiri Matas, Marc Pollefeys
 
 ### Inference
@@ -27,7 +27,7 @@ If you use this repository, please cite the following publication ( https://arxi
 ```bibtex
 @inproceedings{fmodetect,
   author = {Denys Rozumnyi and Jiri Matas and Filip Sroubek and Marc Pollefeys and Martin R. Oswald},
-  title = {FMODetect: Robust Detection and Trajectory Estimation of Fast Moving Objects},
+  title = {FMODetect: Robust Detection of Fast Moving Objects},
   booktitle = {arxiv},
   address = {online},
   month = dec,
