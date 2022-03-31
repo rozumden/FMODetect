@@ -16,6 +16,10 @@ python run.py --im example/ex1_im.png --bgr example/ex1_bgr.png
 
 We only provide the detection part. The deblurring and trajectory reconstruction part will be added later.
 
+### Dataset generation
+Before generating the dataset, please make sure you cloned recursively, e.g. `git clone --recursive git@github.com:rozumden/FMODetect.git`
+Also, please set your paths in `dataset/generate_dataset.sh`. Then, run this script.
+
 ### Pre-trained models
 
 The pre-trained FMODetect model as reported in the paper is available here: https://polybox.ethz.ch/index.php/s/X3J41G9DFuwQOeY.
