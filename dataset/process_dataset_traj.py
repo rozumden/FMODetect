@@ -49,7 +49,7 @@ def main():
         if ti == 0 and os.path.exists(args.dataset_path):
             # TODO ask for confirmation to delete old file
             os.remove(args.dataset_path)
-        output_file = h5py.File(args.dataset_path)
+        output_file = h5py.File(args.dataset_path, 'a')
 
     while ti < (args.dataset_size):
         print(ti)
